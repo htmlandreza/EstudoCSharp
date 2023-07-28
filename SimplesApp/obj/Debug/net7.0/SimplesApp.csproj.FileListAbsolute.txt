@@ -1,0 +1,15 @@
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/bin/Debug/net7.0/SimplesApp
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/bin/Debug/net7.0/SimplesApp.deps.json
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/bin/Debug/net7.0/SimplesApp.runtimeconfig.json
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/bin/Debug/net7.0/SimplesApp.dll
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/bin/Debug/net7.0/SimplesApp.pdb
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.csproj.AssemblyReference.cache
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.AssemblyInfoInputs.cache
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.AssemblyInfo.cs
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.csproj.CoreCompileInputs.cache
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.dll
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/refint/SimplesApp.dll
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.pdb
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/SimplesApp.genruntimeconfig.cache
+/Users/amoreira/Documents/EstudoCSharp/SimplesApp/obj/Debug/net7.0/ref/SimplesApp.dll
